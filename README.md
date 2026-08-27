@@ -31,7 +31,7 @@ Googleplay_Dashbaord/
 |--googleplaystore.csv
 |--requirements.txt
 |--README.md
-
+```
 # Run the Dahboard
 Run the Streamlit application using;
 streamlit run app.py
