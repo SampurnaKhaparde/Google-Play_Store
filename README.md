@@ -24,6 +24,7 @@ The Project helps users understand app ratings, categories, reviews, installs, p
 - Google Play Store Dataset
 
 # Project Structure
+```text
 Googleplay_Dashbaord/
 |
 |--app.py
