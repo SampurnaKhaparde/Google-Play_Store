@@ -1,10 +1,11 @@
-Google Play Store Dashboard
-📊 Project Overview
+# Google Play Store Dashboard
+
+# 📊 Project Overview
 The Google Play Store Dashboard is a data analysis and visualization project built using Python. It analyzes Google Play Store application data and presents useful insights through an interactive dashboard.
 
 The Project helps users understand app ratings, categories, reviews, installs, pricing, and other important characteristics of applications available on the Google Play Store.
 
-Features
+# Features
 - Analyze Google Play Store application data
 - Explore app categories
 - Analyze application ratings
@@ -14,7 +15,7 @@ Features
 - Interactive data visualization
 - User-friendly dashboard
 
-Technologies Used
+# Technologies Used
 - Python
 - Pandas
 - Streamlit
@@ -22,7 +23,7 @@ Technologies Used
 - Seaborn
 - Google Play Store Dataset
 
-Project Structure
+# Project Structure
 Googleplay_Dashbaord/
 |
 |--app.py
@@ -30,12 +31,12 @@ Googleplay_Dashbaord/
 |--requirements.txt
 |--README.md
 
-Run the Dahboard
+# Run the Dahboard
 Run the Streamlit application using;
 streamlit run app.py
 The dashboard will open in your browser.
 
-Dataset
+# Dataset
 The project uses the Google Play Store dataset, containing information about Android applications such as:
 - App name
 - Category
@@ -48,5 +49,5 @@ The project uses the Google Play Store dataset, containing information about And
 - Content Rating
 - Genres
 
-Objective
+# Objective
 The main objective of this project is to analyze Google Play Store data and generate meaningful insights using data visualization and exploratory data analysis techniques.
